@@ -2,6 +2,8 @@
 
 A modern React application for creating CSS gradient codes with animated wave effects.
 
+🔗 Live Demo: https://kullaniciadi.github.io/gradient-generator/
+
 ![React](https://img.shields.io/badge/React-19.0.0-61DAFB?style=flat-square&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=flat-square&logo=tailwind-css)
 ![Vite](https://img.shields.io/badge/Vite-7.3-646CFF?style=flat-square&logo=vite)
