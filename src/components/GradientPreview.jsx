@@ -13,7 +13,7 @@ function GradientPreview({ direction, color1, color2 }) {
     const gradientCoords = getGradientCoords();
 
     return (
-        <div className="wave-container h-[200px] rounded-2xl border border-white/10 shadow-[0_8px_32px_rgba(0,0,0,0.3)] bg-gray-900">
+        <div className="wave-container w-full h-[200px] rounded-2xl border border-white/10 shadow-[0_8px_32px_rgba(0,0,0,0.3)] bg-gray-900">
             <svg
                 className="wave"
                 viewBox="0 0 1200 120"
